@@ -124,9 +124,9 @@ h2 {
 .process::after {
 	content: "";
 	position: absolute;
-	top: 63%;
-	right: 94%;
-	height: 18px;
+	top: 61%;
+	right: 90%;
+	height: 22px;
 	background: none;
 	border-left: 1.2px dashed gainsboro;
 }
@@ -151,7 +151,7 @@ h2 {
 	font-size: 14px;
 }
 
-.list {
+.list-main {
 	display: flex;
 	align-items: center;
 	padding-left: 15px;
