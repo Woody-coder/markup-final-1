@@ -64,13 +64,15 @@ h2 {
 	gap: 10px;
 }
 
-.contact {
+.contact { 
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	padding-top: 15px;
 	padding-left: 14px;
 }
+
+/* !!! */
 
 .icon-form {
 	padding-right: 15px;
