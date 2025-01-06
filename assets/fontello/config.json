@@ -49,12 +49,6 @@
       "src": "entypo"
     },
     {
-      "uid": "8663320a860b00f26e94d3d15c9ba99a",
-      "css": "clock",
-      "code": 59398,
-      "src": "entypo"
-    },
-    {
       "uid": "7idv5s1f3qkgmbwbat6xukumwqxkrook",
       "css": "chat",
       "code": 59399,
@@ -77,6 +71,12 @@
       "css": "ok-circled",
       "code": 59402,
       "src": "elusive"
+    },
+    {
+      "uid": "501f33ed61da407feb057a7699ef93f7",
+      "css": "clock",
+      "code": 59398,
+      "src": "websymbols"
     }
   ]
 }
